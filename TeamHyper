@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """
+logo =print figlet -f big "Hyper Spamming Team" """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 \033[1;96m          
 \033[1;96m           Hyper Spamming Team 
@@ -77,35 +77,35 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        Tanvir Islam 
-\033[1;92m       
-\033[1;97m      
-\033[1;92m      Hyper Spamming Team 
+\033[1;97m  Auther   : Tanvir Islam 
+\033[1;92m  Facebook : Tanvir.Hyperion     
+\033[1;97m  Facebook : Hyper Spamming Team     
+\033[1;92m  Team     : Hyper Spamming Team 
 \033[1;97m      
 \033[1;97m      
                                                                
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
+jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS Mal •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•  Hyper Spamming Team ")
+jalan("\033[1;96m•◈• Hyper Spamming Team ")
 jalan("\033[1;96m•◈• We Are Hyperion")
 jalan("\033[1;97m•◈• We are Hidden VirtualCrimial")
 jalan("\033[1;96m•◈• We make system")
 jalan("\033[1;96m•◈• We Creack System")
 jalan("\033[1;96m•◈• Take Love From Team Hyper")
  
-jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
-jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
+jalan("   \033[1;91m Take Love Hyper Haters ")	
+jalan("   \033[1;91m Don't Copy Us ")	
 
-jalan("   \033[1;93m Welcome to Tanvir's Creations ")
+jalan("   \033[1;93m Welcome to Hyper Gang ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTeamHyper\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "teamhyper"
+CorrectPassword = "teamhyper"
 
 
 loop = 'true'
