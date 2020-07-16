@@ -49,14 +49,14 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m          _____                     _ _ 
-\033[1;96m         / ____|                   | (_) ⚡
-\033[1;96m        | (___  _ __   ___  ___  __| |_  
-\033[1;96m         \___ \| '_ \ / _ \/ _ \/ _` | | 
-\033[1;96m         ____) | |_) |  __/  __/ (_| | |
-\033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
-\033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m          
+\033[1;96m           Hyper Spamming Team 
+\033[1;96m        
+\033[1;96m         
+\033[1;96m         We  are  Hyper  Addicted
+\033[1;96m        
+\033[1;96m       We          are           Hyperion 
+\033[1;96m              
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -77,12 +77,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
-\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
-\033[1;92m      |  _  ||  _  ||  _  | | | | |    
-\033[1;97m      | | | || | | || | | |_| |_| |____
-\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
+\033[1;97m        Tanvir Islam 
+\033[1;92m       
+\033[1;97m      
+\033[1;92m      Hyper Spamming Team 
+\033[1;97m      
+\033[1;97m      
                                                                
 
 """
@@ -90,17 +90,17 @@ print  """
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
-jalan("\033[1;96m•◈•  / ____|  __ \|  ____|  ____|  __ \_   _|")
-jalan("\033[1;97m•◈• | (___ | |__) | |__  | |__  | |  | || |  ")
-jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
-jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
-jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
+jalan("\033[1;96m•◈•  Hyper Spamming Team ")
+jalan("\033[1;96m•◈• We Are Hyperion")
+jalan("\033[1;97m•◈• We are Hidden VirtualCrimial")
+jalan("\033[1;96m•◈• We make system")
+jalan("\033[1;96m•◈• We Creack System")
+jalan("\033[1;96m•◈• Take Love From Team Hyper")
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Tanvir's Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.Facebook.com/Tanvir.Hyperion')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Facebook.com/Tanvir.Hyperion')
 
 def login():
 	os.system('clear')
